@@ -8,7 +8,7 @@ Minimal Webpack 2 HMR
 
 ```
 yarn
-yarn run dev
+yarn dev
 ```
 
 ```
